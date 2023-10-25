@@ -1,2 +1,2 @@
-# Hackjack game
+# People counter
  game
